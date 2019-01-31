@@ -1,0 +1,878 @@
+23/01/2019 16:16:43 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e7a3d5c4-eb71-43c0-9f29-8bd59127f65c
+23/01/2019 16:16:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=e7a3d5c4-eb71-43c0-9f29-8bd59127f65c]
+23/01/2019 16:16:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:16:51 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:16:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:16:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:21:46 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 5ede482e-34dc-468b-950d-f9e31cc35e39
+23/01/2019 16:21:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=5ede482e-34dc-468b-950d-f9e31cc35e39]
+23/01/2019 16:21:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:21:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:21:47 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:21:47 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:22:57 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4c82ab6f-143e-4cef-bdcf-ae678dfce825
+23/01/2019 16:22:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=4c82ab6f-143e-4cef-bdcf-ae678dfce825]
+23/01/2019 16:22:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:22:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:22:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:22:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:23:19 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 89afe33e-b01b-4a65-aac3-70fa5401a6f2
+23/01/2019 16:23:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=89afe33e-b01b-4a65-aac3-70fa5401a6f2]
+23/01/2019 16:23:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:23:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:23:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:23:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:24:53 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 7ebb1ab0-a481-4975-b037-d4d729b60a15
+23/01/2019 16:24:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=7ebb1ab0-a481-4975-b037-d4d729b60a15]
+23/01/2019 16:24:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:24:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:24:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:24:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:26:20 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 22b68831-d12d-4547-8dc3-4b8f1a3ec2dd
+23/01/2019 16:26:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=22b68831-d12d-4547-8dc3-4b8f1a3ec2dd]
+23/01/2019 16:26:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:26:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:26:21 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:26:21 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:34:03 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 327ee5c6-b535-46cd-a95b-8b7cab4db07f
+23/01/2019 16:34:03 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=327ee5c6-b535-46cd-a95b-8b7cab4db07f]
+23/01/2019 16:34:03 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:34:04 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:34:05 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:34:05 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:35:56 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: b1884d8c-d218-440f-96d3-69f93df271c5
+23/01/2019 16:35:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=b1884d8c-d218-440f-96d3-69f93df271c5]
+23/01/2019 16:35:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:35:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:35:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:35:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:43:55 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ebb06ba9-9c52-44f3-b154-888f58dbfdd5
+23/01/2019 16:43:55 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=ebb06ba9-9c52-44f3-b154-888f58dbfdd5]
+23/01/2019 16:43:55 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:43:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:43:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:43:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:44:52 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e7cb7636-42de-44c1-b308-ca233fed5d6b
+23/01/2019 16:44:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=e7cb7636-42de-44c1-b308-ca233fed5d6b]
+23/01/2019 16:44:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:44:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:44:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:44:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:45:42 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 97f68703-4642-4e82-a525-2c4514126737
+23/01/2019 16:45:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=97f68703-4642-4e82-a525-2c4514126737]
+23/01/2019 16:45:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:45:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:45:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:45:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:46:01 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 1d266f0c-d6e6-4e3c-888c-95d989ba7cc7
+23/01/2019 16:46:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=1d266f0c-d6e6-4e3c-888c-95d989ba7cc7]
+23/01/2019 16:46:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:46:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:46:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:46:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:47:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4408e057-9dda-467d-88be-7d1797199551
+23/01/2019 16:47:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=4408e057-9dda-467d-88be-7d1797199551]
+23/01/2019 16:47:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:47:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:47:17 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:47:17 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:48:01 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e213420b-8ec9-4858-91b3-b315cbd41d69
+23/01/2019 16:48:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=e213420b-8ec9-4858-91b3-b315cbd41d69]
+23/01/2019 16:48:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:48:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:48:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:48:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:52:44 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 78141dbe-b3f5-406c-acb6-8c997a7f15f5
+23/01/2019 16:52:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=78141dbe-b3f5-406c-acb6-8c997a7f15f5]
+23/01/2019 16:52:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:52:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:52:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:52:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 16:56:35 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: b08334c0-467b-4981-918c-a95a115e5cb2
+23/01/2019 16:56:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=b08334c0-467b-4981-918c-a95a115e5cb2]
+23/01/2019 16:56:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 16:56:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 16:56:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 16:56:38 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 17:10:46 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 6619af92-b486-4fc3-a1db-4a729e5fd563
+23/01/2019 17:10:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=6619af92-b486-4fc3-a1db-4a729e5fd563]
+23/01/2019 17:10:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 17:10:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 17:10:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 17:10:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 17:15:15 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 89aa618b-4cca-43f2-b64d-a8b725fa9b6f
+23/01/2019 17:15:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=89aa618b-4cca-43f2-b64d-a8b725fa9b6f]
+23/01/2019 17:15:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 17:15:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 17:15:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 17:15:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 17:18:35 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 8210d650-cb38-409a-8417-76d38e6f71d0
+23/01/2019 17:18:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=8210d650-cb38-409a-8417-76d38e6f71d0]
+23/01/2019 17:18:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 17:18:35 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 17:18:36 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 17:18:36 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+23/01/2019 17:18:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f0d236f3-1091-4592-b36b-da33aabf7947
+23/01/2019 17:18:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=f0d236f3-1091-4592-b36b-da33aabf7947]
+23/01/2019 17:18:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+23/01/2019 17:18:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+23/01/2019 17:18:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+23/01/2019 17:18:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:36:08 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 336eb242-7ae7-44e7-82bb-24d942a3d9f7
+24/01/2019 09:36:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=336eb242-7ae7-44e7-82bb-24d942a3d9f7]
+24/01/2019 09:36:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:36:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:36:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:36:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:37:43 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 01fd9454-a5c8-4b86-b330-769858d47ad3
+24/01/2019 09:37:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=01fd9454-a5c8-4b86-b330-769858d47ad3]
+24/01/2019 09:37:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:37:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:37:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:37:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:39:52 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: c5fe16b7-d931-436a-a472-4587259577bf
+24/01/2019 09:39:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=c5fe16b7-d931-436a-a472-4587259577bf]
+24/01/2019 09:39:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:39:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:39:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:39:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:41:09 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 8f291960-deb2-41a4-a176-735216765457
+24/01/2019 09:41:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=8f291960-deb2-41a4-a176-735216765457]
+24/01/2019 09:41:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:41:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:41:10 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:41:10 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:41:30 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 92147b9b-0874-4864-a3cd-3ac809be07bd
+24/01/2019 09:41:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=92147b9b-0874-4864-a3cd-3ac809be07bd]
+24/01/2019 09:41:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:41:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:41:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:41:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:43:23 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 0c7f0f02-742c-4b08-b0c5-ff478092c092
+24/01/2019 09:43:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=0c7f0f02-742c-4b08-b0c5-ff478092c092]
+24/01/2019 09:43:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:43:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:43:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:43:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:45:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 42efc00c-ccd2-4c59-815a-e80723739143
+24/01/2019 09:45:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=42efc00c-ccd2-4c59-815a-e80723739143]
+24/01/2019 09:45:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:45:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:45:17 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:45:17 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:46:27 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 0116bbe0-1601-4d38-854e-26a2fb081ee8
+24/01/2019 09:46:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=0116bbe0-1601-4d38-854e-26a2fb081ee8]
+24/01/2019 09:46:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:46:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:46:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:46:27 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:46:45 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 0a48b889-12ae-40fc-8d96-d8ba98f50b9a
+24/01/2019 09:46:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=0a48b889-12ae-40fc-8d96-d8ba98f50b9a]
+24/01/2019 09:46:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:46:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:46:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:46:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:49:28 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: b5f748cf-e9c4-4d8c-ae38-1da5857e7bb6
+24/01/2019 09:49:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=b5f748cf-e9c4-4d8c-ae38-1da5857e7bb6]
+24/01/2019 09:49:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:49:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:49:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:49:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:51:33 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e47a1b63-e65b-4dc6-8975-3b7a11fe1b92
+24/01/2019 09:51:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=e47a1b63-e65b-4dc6-8975-3b7a11fe1b92]
+24/01/2019 09:51:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:51:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:51:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:51:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:54:44 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: d2d32be2-8764-4e08-b70a-a4aeefaf945f
+24/01/2019 09:54:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=d2d32be2-8764-4e08-b70a-a4aeefaf945f]
+24/01/2019 09:54:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:54:44 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:54:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:54:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:54:45 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: db45caaa-ae6d-498f-b500-c35fbf9e28cc
+24/01/2019 09:54:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=db45caaa-ae6d-498f-b500-c35fbf9e28cc]
+24/01/2019 09:54:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:54:45 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:54:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:54:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 09:55:58 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f3808e4d-0e75-403d-81dc-dd4386881306
+24/01/2019 09:55:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=f3808e4d-0e75-403d-81dc-dd4386881306]
+24/01/2019 09:55:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 09:55:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 09:55:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 09:55:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:00:32 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4168223e-edd2-43fc-ab60-53aa5fc11b58
+24/01/2019 10:00:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=4168223e-edd2-43fc-ab60-53aa5fc11b58]
+24/01/2019 10:00:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:00:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:00:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:00:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:01:07 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e15e5842-075f-4261-bf91-551671695291
+24/01/2019 10:01:07 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=e15e5842-075f-4261-bf91-551671695291]
+24/01/2019 10:01:07 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:01:07 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:01:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:01:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:02:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 506001d2-e24c-4aef-857a-5f4752053e77
+24/01/2019 10:02:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=506001d2-e24c-4aef-857a-5f4752053e77]
+24/01/2019 10:02:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:02:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:02:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:02:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:02:46 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: e51912c4-a487-461c-8ea9-67e07263508e
+24/01/2019 10:02:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=e51912c4-a487-461c-8ea9-67e07263508e]
+24/01/2019 10:02:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:02:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:02:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:02:46 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:03:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 27450af3-b222-453f-be11-b25ebfdbd971
+24/01/2019 10:03:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=27450af3-b222-453f-be11-b25ebfdbd971]
+24/01/2019 10:03:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:03:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:03:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:03:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:04:01 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: b988ed8b-3b4f-4c9a-8cf3-d1c761f07a92
+24/01/2019 10:04:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=b988ed8b-3b4f-4c9a-8cf3-d1c761f07a92]
+24/01/2019 10:04:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:04:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:04:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:04:01 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:40:10 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ce9c6e7e-f55a-4171-8a91-0c0618b60bce
+24/01/2019 10:40:10 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=ce9c6e7e-f55a-4171-8a91-0c0618b60bce]
+24/01/2019 10:40:10 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:40:10 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:40:11 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:40:11 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:41:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 3f0efcca-c2d9-42f1-9223-2c43b05122f3
+24/01/2019 10:41:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=3f0efcca-c2d9-42f1-9223-2c43b05122f3]
+24/01/2019 10:41:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:41:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:41:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:41:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4f82af64-3038-4722-aa04-715e1ff7daa3
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=4f82af64-3038-4722-aa04-715e1ff7daa3]
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:41:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:41:51 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:41:51 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:41:51 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 10:41:51 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 98a21b36-265c-42c5-b59b-3e3f317ed427
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=98a21b36-265c-42c5-b59b-3e3f317ed427]
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:44:05 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:44:06 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:44:06 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:44:06 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 10:44:06 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ab2c52e3-444d-46e2-a02b-5395b1d50512
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=ab2c52e3-444d-46e2-a02b-5395b1d50512]
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:45:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:45:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:45:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:45:41 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 10:45:41 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 301ba353-e095-4704-ad0f-85e38750eb26
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=301ba353-e095-4704-ad0f-85e38750eb26]
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:46:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:46:17 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:46:17 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:46:17 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 10:46:17 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 2e4acdd7-3242-4e83-b86c-f4136649a398
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=2e4acdd7-3242-4e83-b86c-f4136649a398]
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 10:47:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 10:47:55 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 10:47:55 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 10:47:55 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 10:47:55 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 791634ee-de71-4373-8ae6-27cfb453c3dd
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=791634ee-de71-4373-8ae6-27cfb453c3dd]
+24/01/2019 12:53:49 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 12:53:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 12:53:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 12:53:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 12:53:59 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 12:53:59 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:12:57 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:12:57 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:13:44 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:13:44 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: cc300d29-c373-4098-a785-9b58a0cf812f
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=cc300d29-c373-4098-a785-9b58a0cf812f]
+24/01/2019 13:16:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:16:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:16:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:16:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:16:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 13:16:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: c198d378-6ca7-4fa1-b9b3-797ec9de4194
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=AB8D31385A4D4D3BA4FD518C6496765A&correlationId=c198d378-6ca7-4fa1-b9b3-797ec9de4194]
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:24:02 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:24:03 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:24:03 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:24:03 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 13:24:03 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 5e9dc7e8-1177-42b8-9bd2-3973680d20f2
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=5e9dc7e8-1177-42b8-9bd2-3973680d20f2]
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>42AA73DCF9F9627224705F85BC483918</code><date>2019-01-24T13:24:20.000-02:00</date></checkout>', status=200}
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 13:24:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4555a830-ed35-4ac8-9df5-f4befc3bf24c
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=4555a830-ed35-4ac8-9df5-f4befc3bf24c]
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>37A6E540CBCB84FDD416CFADD825F0AC</code><date>2019-01-24T13:25:23.000-02:00</date></checkout>', status=200}
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 13:25:23 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 107f4933-523e-4675-94d9-7e634e434418
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=107f4933-523e-4675-94d9-7e634e434418]
+24/01/2019 13:28:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:28:51 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:28:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:28:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:28:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>11150</code><message>Unauthorized PaymentMethodConfig: MAX_INSTALLMENTS_LIMIT</message></error></errors>', status=400}
+24/01/2019 13:28:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 1185c911-7107-42ef-8cb3-a87e5cc73fe6
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=1185c911-7107-42ef-8cb3-a87e5cc73fe6]
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:45:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:45:18 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:45:18 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:45:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>6D09D784B7B780ACC4B00F8BCB854A93</code><date>2019-01-24T13:45:18.000-02:00</date></checkout>', status=200}
+24/01/2019 13:45:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:45:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 13:45:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 41b41d06-d46f-45a4-a363-f936ddc0fdb0
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=41b41d06-d46f-45a4-a363-f936ddc0fdb0]
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 13:46:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 13:46:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 13:46:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 13:46:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>B76A8E6ED8D891888455AF9DB338A3E7</code><date>2019-01-24T13:46:42.000-02:00</date></checkout>', status=200}
+24/01/2019 13:46:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 13:46:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 13:46:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: d02676de-fe57-440c-abf1-3f7d37a0ac08
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=d02676de-fe57-440c-abf1-3f7d37a0ac08]
+24/01/2019 14:12:36 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:12:37 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:12:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:12:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:12:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>79F74F75ACAC29C3347CDFB94AE584DD</code><date>2019-01-24T14:12:39.000-02:00</date></checkout>', status=200}
+24/01/2019 14:12:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:12:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:12:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 2e0af50b-51f4-4a48-ab55-ee52dd74dc97
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=2e0af50b-51f4-4a48-ab55-ee52dd74dc97]
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:13:18 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:13:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:13:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:13:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>1B1F2781F8F8EBF554A36FA4B393CBD2</code><date>2019-01-24T14:13:20.000-02:00</date></checkout>', status=200}
+24/01/2019 14:13:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:13:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:13:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 7d134cd0-c6f2-4731-8de0-92277dc9fdae
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=7d134cd0-c6f2-4731-8de0-92277dc9fdae]
+24/01/2019 14:16:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:16:10 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>BAAC6324DEDE4F8664CEBF8830CBE74A</code><date>2019-01-24T14:16:16.000-02:00</date></checkout>', status=200}
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 47682cb4-3081-41a8-a76a-885c9987e85f
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=47682cb4-3081-41a8-a76a-885c9987e85f]
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:16:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 74c8171d-ec8f-4097-9be6-887793ecaeba
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=74c8171d-ec8f-4097-9be6-887793ecaeba]
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:16:19 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:16:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:16:20 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:16:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>D3C791EAC5C5107DD44BCF8C7E9BE32F</code><date>2019-01-24T14:16:19.000-02:00</date></checkout>', status=200}
+24/01/2019 14:16:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:16:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:16:20 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:16:22 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:16:22 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:16:22 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>DE08B807E2E27D944427BFB730B258BE</code><date>2019-01-24T14:16:22.000-02:00</date></checkout>', status=200}
+24/01/2019 14:16:22 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:16:22 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:16:22 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ae08cf9c-6171-4e3c-a100-6252ae47808e
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=ae08cf9c-6171-4e3c-a100-6252ae47808e]
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:16:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:16:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:16:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:16:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>2AB619A3F8F8E44334FB4F9F37B8CBDB</code><date>2019-01-24T14:16:41.000-02:00</date></checkout>', status=200}
+24/01/2019 14:16:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:16:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:16:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 83b7534c-3db2-4e0a-9a67-1501ea139ff3
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=83b7534c-3db2-4e0a-9a67-1501ea139ff3]
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 14:17:06 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 14:17:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 14:17:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 14:17:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>97FB08B9878798C0041CBFA683057BF9</code><date>2019-01-24T14:17:09.000-02:00</date></checkout>', status=200}
+24/01/2019 14:17:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 14:17:10 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 14:17:10 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 94e48b7c-7ee0-499c-ac62-a0a260b8c89a
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=94e48b7c-7ee0-499c-ac62-a0a260b8c89a]
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:05:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:05:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:05:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:05:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>A6554301FAFA7593348F1FA3168962E9</code><date>2019-01-24T15:05:16.000-02:00</date></checkout>', status=200}
+24/01/2019 15:05:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:05:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:05:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=99999999999, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=99, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, acceptPaymentMethodGroup=BALANCE,BOLETO, shippingAddressCountry=BRA, senderPhone=99999999, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: d8627433-386d-4524-9e95-c6960bbcb058
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=d8627433-386d-4524-9e95-c6960bbcb058]
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:23:07 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:23:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:23:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:23:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>0329A560C0C0329774BF7F95EC778C56</code><date>2019-01-24T15:23:08.000-02:00</date></checkout>', status=200}
+24/01/2019 15:23:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:23:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:23:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 191bb175-071b-4acc-9b80-f20b6c04c3f5
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=191bb175-071b-4acc-9b80-f20b6c04c3f5]
+24/01/2019 15:29:57 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:29:58 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:29:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:29:59 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:29:59 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>48CF5006A7A7009BB439EF8E7F607738</code><date>2019-01-24T15:29:59.000-02:00</date></checkout>', status=200}
+24/01/2019 15:29:59 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:29:59 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:29:59 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: cad0fb6d-e485-4e6a-80de-dec02f1ee421
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=cad0fb6d-e485-4e6a-80de-dec02f1ee421]
+24/01/2019 15:39:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>CC10E0E866668552247EEFBC909A6FD1</code><date>2019-01-24T15:39:16.000-02:00</date></checkout>', status=200}
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:39:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=comprador@sandbox.pagseguro.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=99999.99, itemAmount2=99999.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ae2ce241-a597-40bb-aa12-1cc2bdb01666
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=ae2ce241-a597-40bb-aa12-1cc2bdb01666]
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:40:15 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:40:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:40:16 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:40:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>B68A61F11E1EE1DDD42C3FA88ACB1912</code><date>2019-01-24T15:40:16.000-02:00</date></checkout>', status=200}
+24/01/2019 15:40:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:40:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:40:16 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=Ro01comprador@sandbox.pagseguro.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 74c8794a-882d-487c-b383-5a3c3f11e2fd
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=74c8794a-882d-487c-b383-5a3c3f11e2fd]
+24/01/2019 15:41:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>075AE5E94D4DD76774C5EF8AB4189AFD</code><date>2019-01-24T15:41:43.000-02:00</date></checkout>', status=200}
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:41:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_LIMIT, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, paymentMethodConfigKey4_1=MAX_INSTALLMENTS_NO_INTEREST, shippingAddressNumber=9999, senderEmail=Ro01comprador@sandbox.pagseguro.com.br, paymentMethodGroup4=CREDIT_CARD, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=10, paymentMethodConfigValue4_1=5}}
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 884205c5-dbf7-4e64-9ea4-4acc2497a27e
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=884205c5-dbf7-4e64-9ea4-4acc2497a27e]
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>B8BD8A771F1F02DCC4CB4FBE8097CA3E</code><date>2019-01-24T15:46:50.000-02:00</date></checkout>', status=200}
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+24/01/2019 15:46:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ea48afa2-1620-4cfa-bce2-521b608a9766
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=ea48afa2-1620-4cfa-bce2-521b608a9766]
+28/01/2019 16:01:29 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:01:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:01:31 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:01:31 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:01:31 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>987D8B076A6AD7E44479CF93472B41A7</code><date>2019-01-28T16:01:31.000-02:00</date></checkout>', status=200}
+28/01/2019 16:01:31 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:01:31 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:01:31 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 577fa668-3e56-40a6-9e54-5a8f3ff9ba2e
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=577fa668-3e56-40a6-9e54-5a8f3ff9ba2e]
+28/01/2019 16:03:41 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:03:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:03:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:03:43 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:03:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>9C7C40F91111116994BC0FAFCADE0BB5</code><date>2019-01-28T16:03:43.000-02:00</date></checkout>', status=200}
+28/01/2019 16:03:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:03:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:03:43 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 961ef648-9c12-4efc-b0cd-8b371cf8e753
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=961ef648-9c12-4efc-b0cd-8b371cf8e753]
+28/01/2019 16:08:24 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>EB22F70C090907D6642C5F86CBBD2B7A</code><date>2019-01-28T16:08:25.000-02:00</date></checkout>', status=200}
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:08:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:09:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:09:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=comprador@uol.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 2176332d-a80c-462c-bf90-3e20c98a71d7
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=2176332d-a80c-462c-bf90-3e20c98a71d7]
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:09:53 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:09:54 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:09:54 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>4453E2935F5FEDEFF4CE3F9122B9CF36</code><date>2019-01-28T16:09:53.000-02:00</date></checkout>', status=200}
+28/01/2019 16:09:54 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:09:54 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:09:54 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: a1242202-d437-493b-a53c-bcc17409cd12
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=a1242202-d437-493b-a53c-bcc17409cd12]
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:11:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:11:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:11:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:11:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>AC7F9F9015155AF1143C7F81EEC729DE</code><date>2019-01-28T16:11:26.000-02:00</date></checkout>', status=200}
+28/01/2019 16:11:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:11:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:11:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 0efb57c9-4075-43e1-8568-d7f8026cce11
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=0efb57c9-4075-43e1-8568-d7f8026cce11]
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>13629EAB5353234114959FA7A7EE0F06</code><date>2019-01-28T16:11:52.000-02:00</date></checkout>', status=200}
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:11:52 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 84b62bff-0045-4ed2-8fc1-b6c141ea2db2
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=84b62bff-0045-4ed2-8fc1-b6c141ea2db2]
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:19:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:19:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:19:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:19:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>1C0F655A63637F855419EF8A6F174352</code><date>2019-01-28T16:19:33.000-02:00</date></checkout>', status=200}
+28/01/2019 16:19:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:19:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:19:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: ccb6f681-7655-4379-9b02-5a167c5aefda
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=ccb6f681-7655-4379-9b02-5a167c5aefda]
+28/01/2019 16:24:28 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:24:29 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:24:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:24:30 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:24:30 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>A30B2E9A98988C1884C5CF8CB5F5E0F4</code><date>2019-01-28T16:24:30.000-02:00</date></checkout>', status=200}
+28/01/2019 16:24:30 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:24:30 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:24:30 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f6a11f4f-d3f3-4ad2-9aa8-9c9157fbce81
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=f6a11f4f-d3f3-4ad2-9aa8-9c9157fbce81]
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:24:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:24:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:24:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:24:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>CAF1FE9BAFAFEE355465DF9E0852C6F0</code><date>2019-01-28T16:24:40.000-02:00</date></checkout>', status=200}
+28/01/2019 16:24:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:24:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:24:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 958f20b9-d760-4c56-a34f-0d18dcb92093
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=958f20b9-d760-4c56-a34f-0d18dcb92093]
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>F3FD4A588B8B787224644F8C26E0BA93</code><date>2019-01-28T16:24:50.000-02:00</date></checkout>', status=200}
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:24:50 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 8c1d3e1d-70b1-453c-b9eb-94d45bd88c34
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=8c1d3e1d-70b1-453c-b9eb-94d45bd88c34]
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>7F4B96CA626265BAA4823FA1B7BADA8F</code><date>2019-01-28T16:25:26.000-02:00</date></checkout>', status=200}
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:25:26 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 04d14bec-861f-456f-a064-712c15eb15c4
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=04d14bec-861f-456f-a064-712c15eb15c4]
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:25:39 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:25:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:25:40 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:25:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>B4632DA43A3AA98FF4A5BFA0A93F5948</code><date>2019-01-28T16:25:40.000-02:00</date></checkout>', status=200}
+28/01/2019 16:25:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:25:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:25:40 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:25:52 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 8f03fed7-a150-4d5a-a151-aa0df0624db0
+28/01/2019 16:25:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=8f03fed7-a150-4d5a-a151-aa0df0624db0]
+28/01/2019 16:25:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:25:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:25:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:25:52 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: f2f3c4bd-8443-4ebd-b352-7cc4148ca39b
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=f2f3c4bd-8443-4ebd-b352-7cc4148ca39b]
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>6515ED163131D88BB49EEFAC7AB40C79</code><date>2019-01-28T16:26:25.000-02:00</date></checkout>', status=200}
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:26:25 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:30:50 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 4f94f1c8-26b1-4cda-adeb-28f734c03921
+28/01/2019 16:30:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=4f94f1c8-26b1-4cda-adeb-28f734c03921]
+28/01/2019 16:30:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:30:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:30:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:30:50 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: c86cd972-4655-4ae9-9f10-c5100a29be71
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=c86cd972-4655-4ae9-9f10-c5100a29be71]
+28/01/2019 16:45:08 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:45:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:45:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:45:09 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:45:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='Unauthorized', status=401}
+28/01/2019 16:45:09 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: fc3be4b4-aac7-4635-9210-e9095b197fdd
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=fc3be4b4-aac7-4635-9210-e9095b197fdd]
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:48:32 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:48:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:48:33 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:48:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>A825782AC0C085EBB4D53F9D2FC84E47</code><date>2019-01-28T16:48:33.000-02:00</date></checkout>', status=200}
+28/01/2019 16:48:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:48:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:48:33 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 33550ae8-50c7-42d1-aa49-234edde660ce
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=33550ae8-50c7-42d1-aa49-234edde660ce]
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>CDE0D7C777773872248C3F9A09297908</code><date>2019-01-28T16:48:42.000-02:00</date></checkout>', status=200}
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:48:42 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 82978777-9b22-403b-810c-38068ea39e72
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=C472362591CF4BCE850597172A6BA1E0&correlationId=82978777-9b22-403b-810c-38068ea39e72]
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>04750E299F9F006DD4F46FBCA390D640</code><date>2019-01-28T16:48:56.000-02:00</date></checkout>', status=200}
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:48:56 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Iniciando checkout
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Convertendo valores
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Valores convertidos
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Parametros: RequestMap{map={itemId1=0001, extraAmount=1.00, shippingAddressState=SP, itemId2=0002, shippingType=2, paymentMethodConfigKey2_1=DISCOUNT_PERCENT, paymentMethodConfigKey3_1=MAX_INSTALLMENTS_NO_INTEREST, paymentMethodConfigKey1_1=DISCOUNT_PERCENT, senderCPF=62718124067, reference=XXXXXX, senderName=Jose Comprador, shippingAddressComplement=99o andar, shippingAddressNumber=9999, senderEmail=compradorRocribeiro@sandbox.pagseguro.com.br, currency=BRL, senderAreaCode=11, paymentMethodGroup1=CREDIT_CARD, shippingAddressStreet=Av. PagSeguro, paymentMethodGroup3=CREDIT_CARD, paymentMethodGroup2=BOLETO, shippingAddressCity=Cidade Exemplo, itemQuantity1=1, itemWeight1=1000, shippingCost=10.00, itemWeight2=750, itemQuantity2=2, shippingAddressCountry=BRA, senderPhone=992898365, shippingAddressDistrict=Jardim Internet, itemDescription1=Produto PagSeguroI, itemDescription2=Produto PagSeguroII, shippingAddressPostalCode=99999999, itemAmount1=0.99, itemAmount2=0.98, paymentMethodConfigValue1_1=10.00, paymentMethodConfigValue2_1=10.00, paymentMethodConfigValue3_1=5}}
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.http.AuthenticatedHttpClient[INFO]: Correlation Id: 3c04036a-bb98-4b1f-b6cd-1ab018ce1c2a
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Executando [POST] em [https://ws.sandbox.pagseguro.uol.com.br/v2/checkout?email=rocribeiro@uolinc.com&token=A72E5888819B44B5AFB11A43C58A97E7&correlationId=3c04036a-bb98-4b1f-b6cd-1ab018ce1c2a]
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Abrindo conexao
+28/01/2019 16:49:12 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Escrevendo body
+28/01/2019 16:49:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Lendo resposta
+28/01/2019 16:49:13 PagSeguro.br.com.uol.pagseguro.api.http.JSEHttpClient[INFO]: Fechando conexao
+28/01/2019 16:49:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[FINE]: Resposta: HttpResponse{responseAsString='<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><checkout><code>438003D29696C14554BC6FB467F7E8C5</code><date>2019-01-28T16:49:13.000-02:00</date></checkout>', status=200}
+28/01/2019 16:49:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseando XML de resposta
+28/01/2019 16:49:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Parseamento finalizado
+28/01/2019 16:49:13 PagSeguro.br.com.uol.pagseguro.api.checkout.CheckoutsResource[INFO]: Checkout finalizado
