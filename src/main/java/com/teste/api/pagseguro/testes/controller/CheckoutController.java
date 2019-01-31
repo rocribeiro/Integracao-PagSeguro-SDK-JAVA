@@ -35,11 +35,11 @@ import br.com.uol.pagseguro.api.utils.logging.SimpleLoggerFactory;
 @RequestMapping("/checkout")
 public class CheckoutController {
 	//credenciais de sandbox
-	String sellerEmailSand = "rocribeiro@uolinc.com";
-	String sellerTokenSand = "A72E5888819B44B5AFB11A43C58A97E7";
+	String sellerEmailSand = "Meu Email";
+	String sellerTokenSand = "Meu Token";
 	//Credenciais de Produção
-	String sellerEmailProd = "rocribeiro@uolinc.com";
-	String sellerTokenProd = "C472362591CF4BCE850597172A6BA1E0";
+	String sellerEmailProd = "Meu Email";
+	String sellerTokenProd = "Meu Token";
 	
 	CheckoutRegistrationBuilder cs = new CheckoutRegistrationBuilder().withCurrency(Currency.BRL)
 			.withExtraAmount(BigDecimal.ONE).withReference("XXXXXX")

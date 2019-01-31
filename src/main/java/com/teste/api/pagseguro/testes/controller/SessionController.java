@@ -21,8 +21,8 @@ public class SessionController {
 	
 	@GetMapping("/prod")
 	public void SesssionIdProd(HttpServletResponse res) {
-		String sellerEmail = "rocribeiro@uolinc.com";
-	    String sellerToken = "C472362591CF4BCE850597172A6BA1E0";
+		String sellerEmail = "Meu Email";
+	    String sellerToken = "Meu Token";
 	    final PagSeguro pagSeguro = PagSeguro
 	            .instance(new SimpleLoggerFactory(), new JSEHttpClient(), Credential.sellerCredential(sellerEmail,
 	                sellerToken), PagSeguroEnv.PRODUCTION);
@@ -41,8 +41,8 @@ public class SessionController {
 	}
 	@GetMapping("/sand")
 	public void SesssionIdSand(HttpServletResponse res) {
-		String sellerEmail = "rocribeiro@uolinc.com";
-	    String sellerToken = "A72E5888819B44B5AFB11A43C58A97E7";
+		String sellerEmail = "Meu Email";
+	    String sellerToken = "Meu Token";
 	    final PagSeguro pagSeguro = PagSeguro
 	            .instance(new SimpleLoggerFactory(), new JSEHttpClient(), Credential.sellerCredential(sellerEmail,
 	                sellerToken), PagSeguroEnv.SANDBOX);
